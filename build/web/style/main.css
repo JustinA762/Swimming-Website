@@ -1,0 +1,90 @@
+    
+    /* Global */
+    * {
+        color: black;
+        margin: 0;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    body {
+        background: url('../pics/background2.jpg');
+        background-position: center;
+        background-size: cover;
+        background-image: no-repeat;
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+
+    /* Header */
+    .top {
+        display: flex;
+        position: fixed;
+        width: 100%;
+        top: 0;
+        background-color: rgba(116, 22, 37, 0.85);
+        padding: 1%;
+        border: solid 0.5px black;
+    }
+    
+    #title {
+        margin-left: 20px;
+        float: left;
+    }
+    
+    #nav {
+        display: flex;
+    }
+
+    /* body */
+
+    #home-pic img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30rem;
+        border-radius: 25px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        border: solid 2px black;
+    }
+
+    p {
+        padding: 20px;
+        font-size: 1.25em;
+        text-align: center;
+        margin: 0px 100px 0px 100px; /* top right bottom left */
+    }
+    
+    .background {
+        background-color: rgba(233, 232, 230, 0.6);
+        padding: 25px;
+        border-radius: 25px;
+    }
+    
+    .background:hover {
+        background-color: rgba(233, 232, 230, 0.8);
+        transition: ease-in-out;
+        transition: .5s;
+    }
+    
+
+    /* Footer */
+    #footer {
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+        font-size: 1.25em;
+        background-color: #742C3C;
+        text-align: center;
+        padding: 20px;
+        border: solid 0.5px black;
+    }
+    
+    /* Mobile */
+    
+    /* Use a media query to add a break point at 800px: */
+    @media screen and (max-width: 1000px) {
+      #title, #nav {
+        display: block; /* The width is 100%, when the viewport is 800px or smaller */
+    };
+     
