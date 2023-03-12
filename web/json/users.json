@@ -1,0 +1,60 @@
+[
+
+    {
+        "webUserId": "1",
+        "userEmail": "good@yahoo.com",
+        "image": "https://cdn.pixabay.com/photo/2014/09/26/21/51/man-462874_960_720.jpg",
+        "birthday": "04/05/1999",
+        "membershipFee": "$5.00",
+        "userRoleId": "3",
+        "userRoleType": "Qualifer"
+    },
+    {
+        "webUserId": "2",
+        "userEmail": "good1@yahoo.com",
+        "image": "https://i1.wp.com/newspack-washingtoncitypaper.s3.amazonaws.com/uploads/2020/01/torri_huske.5e28d1b1941ea.png?fit=1200%2C900&ssl=1",
+        "birthday": "11/15/2002",
+        "membershipFee": "$1,000.99",
+        "userRoleId": "2",
+        "userRoleType": "Beginner"
+    },
+        {
+        "webUserId": "3",
+        "userEmail": "good2@yahoo.com",
+        "image": "https://www.nbc4i.com/wp-content/uploads/sites/18/2018/03/swim_38934373_ver1.0.jpg?w=1280",
+        "birthday": "06/27/1998",
+        "membershipFee": "$5.00",
+        "userRoleId": "1",
+        "userRoleType": "Swimmer"
+    },
+
+    {
+        "webUserId": "4",
+        "userEmail": "good3@yahoo.com",
+        "image": "https://cdn.pixabay.com/photo/2015/09/09/16/16/man-931724_960_720.jpg",
+        "birthday": "03/14/2000",
+        "membershipFee": "$9.99",
+        "userRoleId": "2",
+        "userRoleType": "Beginner"
+    },
+
+
+    {
+        "webUserId": "5",
+        "userEmail": "good4@yahoo.com",
+        "image": "https://cdn.pixabay.com/photo/2016/03/17/16/37/sport-1263289_960_720.jpg",
+        "birthday": "02/18/2001",
+        "membershipFee": "$9.99",
+        "userRoleId": "1",
+        "userRoleType": "Swimmer"
+    },
+        {
+        "webUserId": "6",
+        "userEmail": "good5@yahoo.com",
+        "image": "https://cdn.pixabay.com/photo/2014/03/12/18/27/swimming-286215_960_720.jpg",
+        "birthday": "12/25/2010",
+        "membershipFee": "$9.99",
+        "userRoleId": "3",
+        "userRoleType": "Qualifer"
+    }
+]
